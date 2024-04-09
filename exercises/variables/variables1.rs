@@ -5,9 +5,11 @@
 // Execute `rustlings hint variables1` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
+//
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
 
 fn main() {
-    x = 5;
+    let x = 5;
     println!("x has the value {}", x);
 }
